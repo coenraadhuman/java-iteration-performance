@@ -28,11 +28,11 @@ I created a VM on VirtualBox with [Alpine Linux](https://dl-cdn.alpinelinux.org/
 
 VirtualBox configuration:
 
-![virtualbox]()
+![virtualbox](./.images/Screenshot%20from%202024-01-31%2015-48-39.png)
 
 Distro resources on idle:
 
-![htop]()
+![htop](./.images/Screenshot%20from%202024-01-31%2015-41-10.png)
 
 ### The Results
 
@@ -80,3 +80,8 @@ Running it a third time I only started seeing the results that I expected from m
 #### _Raw Output:_
 
 See the following Markdown file for the output: [RAW_RESULTS.md](./RAW_RESULTS.md)
+
+### Conclusion
+
+- After reviewing the results the expected outcome was matched.
+- I think though that given how closely the Arrays, Lists and Sequentials Stream perform, that just using Streams with an utility to switch between the Sequentional or a Parallel Stream makes the most sense given that you will have **better code scalibility**.
