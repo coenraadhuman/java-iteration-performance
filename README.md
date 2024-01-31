@@ -1,3 +1,5 @@
+[![Image of github-profile-views-counter](https://github.com/coenraadhuman/github-profile-views-counter/blob/master/svg/749360667/badge.svg)](https://github.com/coenraadhuman/github-profile-views-counter/blob/master/readme/749360667/week.md)
+
 # java-iteration-performance
 
 After reading up a bit regarding loops vs streams and the performance impact of iterating over items I decided to do a little study on it myself.
